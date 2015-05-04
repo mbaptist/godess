@@ -1,0 +1,24 @@
+COMPILATION AND INSTALLATION WITH build.py SCRIPT
+
+Get the sources
+
+./build.py 
+will build and install in separate subdirectories inside the source directory
+
+
+
+COMPILATION AND INSTALATION PROCEDURE WITH CMAKE
+
+Get the sources
+
+mkdir [PATH_TO_BUILD_DIR]
+
+cd [PATH_TO_BUILD_DIR]
+
+cmake -DCMAKE_INSTALL_PREFIX:PATH=[PATH_OF_INSTALL_PREFIX] [PATH_OF_SOURCE]
+
+make
+
+make install
+
+
