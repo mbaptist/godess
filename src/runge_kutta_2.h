@@ -1,7 +1,7 @@
 // -*- C++ -*-
 /*
 
-Copyright 2004,2005,2006 Manuel Baptista
+Copyright 2004-2015 Manuel Baptista
 
 This file is part of GODESS
 
